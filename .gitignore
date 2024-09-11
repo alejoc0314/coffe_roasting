@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de cuadernos Jupyter generados automáticamente
+.ipynb_checkpoints/
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración específicos de entornos locales
+*.env
+.env.*
